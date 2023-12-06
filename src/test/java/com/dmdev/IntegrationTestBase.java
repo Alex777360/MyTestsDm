@@ -1,4 +1,4 @@
-package com.dmdev.integration;
+package com.dmdev;
 
 import com.dmdev.util.ConnectionManager;
 import lombok.SneakyThrows;
